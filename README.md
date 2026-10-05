@@ -118,13 +118,4 @@ Je conçois des applications web full stack et je gère les infrastructures qui 
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 <p align="center">📫 Ouvert aux opportunités : n'hésitez pas à me contacter sur <a href="https://linkedin.com/in/achraf-derkaoui">LinkedIn</a> ou par <a href="mailto:achrafderkaoui@gmail.com">email</a>.</p>
